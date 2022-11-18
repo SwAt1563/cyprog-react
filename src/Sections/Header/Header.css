@@ -1,0 +1,5 @@
+.main-navbar {
+  background-color: var(--color-darkest);
+  color: var(--color-light);
+  min-height: 100px;
+}
